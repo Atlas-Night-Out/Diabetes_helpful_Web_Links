@@ -1,0 +1,2 @@
+rootProject.name = "Diabetes Helpful Web Links"
+include ':app'
